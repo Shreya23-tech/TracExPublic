@@ -1,3 +1,4 @@
 client/node_modules
 blockchain/node_modules
 blockchain/build
+.next
